@@ -31,7 +31,7 @@ class ActorPing extends Actor {
       * y se le envia un mensaje de respuesta
       */
 
-    actorPong  ! Pong("Pong")
+    actorPong  ! Pong("Pong pruba")
 
   }
 
